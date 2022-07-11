@@ -1,0 +1,218 @@
+[33mcommit 352edb303a5ef832c0449adc526fffbc3fde1161[m[33m ([m[1;36mHEAD -> [m[1;32mfixing/queue[m[33m, [m[1;31morigin/fixing/queue[m[33m)[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Tue Jan 11 18:27:06 2022 +0530
+
+    Updated queue according to kivy-mock code
+
+[33mcommit a7c6d9c8796df84de8acaec5d7b1f44e110a411b[m[33m ([m[1;32mKivy-mock-shifting[m[33m)[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Tue Jan 11 16:03:22 2022 +0530
+
+    json fixed
+
+[33mcommit 67065485ed9d223f6de1fd6e4d7e6b095c71f123[m[33m ([m[1;31morigin/Kivy-mock-shifting[m[33m)[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Fri Jan 7 18:50:59 2022 +0530
+
+    symlink images and threads.py
+
+[33mcommit 895651dd76dd2b063615b3b7794adccddb70adb5[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Thu Jan 6 20:55:38 2022 +0530
+
+    fixed pylint and flake8 code quality errors
+
+[33mcommit c987da1224cb0c668946f23c23628171383401ce[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Thu Jan 6 17:32:07 2022 +0530
+
+    Kivy Mock added
+
+[33mcommit b393cfc98d306897b509266f53b37ed772654875[m[33m ([m[1;31mupstream/v0.6[m[33m, [m[1;32mv0.6[m[33m)[m
+Author: surbhicis <surbhi.s@cisinlabs.com>
+Date:   Thu Dec 23 12:33:14 2021 +0530
+
+    update sdk and ant compatible version
+
+[33mcommit 784562ca013b3797f58ed8912665dfba6427e97b[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Tue Dec 14 22:19:30 2021 +0200
+
+    Fix the qidenticon PyQt5 bug (closes: #1901)
+
+[33mcommit f74ed21f3a1002e7e4cbdb9511d395134ec66514[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Tue Dec 14 22:10:07 2021 +0200
+
+    Reproduce the bug in qidenticon related to PyQt5
+
+[33mcommit 05046154daf9388e8c18ac66cffbc19062acb9f3[m
+Author: surbhicis <surbhi.s@cisinlabs.com>
+Date:   Wed Dec 15 12:14:37 2021 +0530
+
+    update androiddev.sh for docker
+
+[33mcommit 8d779f3760e04a9575c40c182a7b192ae0b2ff9e[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Mon Nov 15 20:41:57 2021 +0530
+
+    Added more instructions to INSTALL.md, rearranges the steps and added warning for ubuntu 20 & greater
+
+[33mcommit 971c79b3f53dfb57fa4ebc57e61a8f0be6c4de07[m[33m ([m[1;31morigin/appimage-arg-softwareversion[m[33m, [m[1;32mappimage-arg-softwareversion[m[33m)[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Tue Dec 14 20:57:59 2021 +0530
+
+    Added dynamic version of appimage build
+
+[33mcommit 5bc92987c02cf41fecfe118e6d2ab148f7ddea21[m[33m ([m[1;31morigin/fixing/appimage-docker[m[33m, [m[1;32mfixing/appimage-docker[m[33m)[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Fri Dec 3 22:11:55 2021 +0530
+
+    Fixed appimage build
+
+[33mcommit 6f1f47fb6a56e0689b43ff440ed93a5e2f3671bf[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Mon Dec 13 15:33:47 2021 +0200
+
+    Bundle the packages needed for json and xml extras into appimage
+
+[33mcommit 7740d54ce7bbb2f26674298a283804be79d55af9[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Mon Dec 13 14:52:29 2021 +0200
+
+    Bundle also json and xml extras into windows exe (fixes: #1903)
+
+[33mcommit 0133fe79072e13785f485d1040160479febfcf0b[m
+Author: Teruteru <teruterubouzu1024@gmail.com>
+Date:   Mon Dec 13 20:19:08 2021 +0900
+
+    Remove unnecessary newline characters from the error log
+
+[33mcommit ef2d005957104169d27bbcddd2830bd9a0ebdba5[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Sat Dec 11 16:16:50 2021 +0200
+
+    Fix #1898
+
+[33mcommit bfe7dd16e9de1d2899d4915e85c1b15001517af7[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Sat Dec 11 15:44:56 2021 +0200
+
+    Reproduce the bug described in #1898 using test_addressbook()
+
+[33mcommit 154ecc410cd561a1a95d54ca5629a0edd610526a[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Mon Dec 6 19:17:59 2021 +0530
+
+    Added custom error message in message_inbox testcase
+
+[33mcommit 5771f21cfbbf268a56773885bd48347620066c48[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Tue Nov 30 19:46:18 2021 +0530
+
+    Added undeleteMessage function in helper_inbox & respective method in api.py and separated inbox & trash testcases
+
+[33mcommit 16175278a87b85de71c5e1f8d7fb8cbb3269a453[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Mon Nov 29 22:51:02 2021 +0530
+
+    Merged inbox & trash functions related testcases into single testcase method
+
+[33mcommit 21d5a6ce8f29a75a585d1c9d50b7fbe760d3317f[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Fri Nov 26 20:23:55 2021 +0530
+
+    Instead of print added getAllInboxMessages values in assertEqual message parameter
+
+[33mcommit 62ffe96bc8d8ad8931cd356f126776fc7c1dc7f5[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Fri Nov 26 20:08:51 2021 +0530
+
+    Added anouncement addr comment, replaces assertTrue with assertEqual & added print for getAllInboxMessages to check build failure
+
+[33mcommit 56ec5b8a03209ca6b39e64c5340873f5d5fb5eed[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Thu Nov 25 21:43:22 2021 +0530
+
+    Created testmode decorator & routed command decorator through it
+
+[33mcommit 21cb4e516da2db08aa4dfc08d9ac86ccd443cbea[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Thu Nov 18 21:24:05 2021 +0530
+
+    Added testmode check for HandleclearUISignalQueue & HandleGetStatusBar functions, replaced sample_inbox_msg_receiver_address by sample_deterministic_addr4
+
+[33mcommit 9a194f0bae1cb2fc520ba0e358774e02a97baa48[m
+Author: kuldeep.k@cisinlabs.com <kuldeep.k@cisinlabs.com>
+Date:   Fri Oct 15 19:30:19 2021 +0530
+
+    Added statusBar, getAllInboxMessages, getAllInboxMessageIds, getInboxMessageById, getInboxMessagesByReceiver, trashMessage, trashInboxMessage & addSubscription, methods testcases & updated related functions
+
+[33mcommit 511c7b69ace2dba091cbea74817f22562be06340[m
+Author: surbhicis <surbhi.s@cisinlabs.com>
+Date:   Wed Dec 1 12:40:06 2021 +0530
+
+    added android dev in buildscript
+
+[33mcommit ebdcc363b1e57e172c6169f7685aede6f44a7783[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Thu Nov 18 17:44:35 2021 +0200
+
+    Add a portable env for py27 in tox.ini,
+    
+    update python3 envs and PYTHONWARNINGS, restrict deps for reset and stats.
+
+[33mcommit a6c81b5a4a78c0359a230f55bbc976ca149fb423[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Wed Nov 17 20:11:12 2021 +0200
+
+    Rewrite tests script for using the pybitmessage package, not src
+
+[33mcommit 05603422010b3b04a4f9f47fea10d0484d226980[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Mon Nov 15 16:49:09 2021 +0200
+
+    The script for portable mode if needed
+
+[33mcommit 61d9db9e7255d3eb45fc13e5e88780aa51991237[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Mon Nov 15 16:37:02 2021 +0200
+
+    Remove import from outer package in messagetypes, use dotted imports
+
+[33mcommit 99abb6c880cf119ec67cd6fcfc28fea3019392b2[m[33m ([m[1;31morigin/Dockerfile-bionic[m[33m, [m[1;32mupdate/android-stage[m[33m, [m[1;32mDockerfile-bionic[m[33m)[m
+Author: shekhar-cis <shekhar.c@cisinlabs.com>
+Date:   Thu Nov 25 13:59:04 2021 +0530
+
+    Updated buildbot and travis in Dockerfile.bionic
+
+[33mcommit c6f50bccec78abfa494109fcaf237255aabcb60e[m
+Author: Muzahid <muzahid.h@cisinlabs.com>
+Date:   Wed Nov 24 17:24:52 2021 +0530
+
+    ignore coverage changes
+
+[33mcommit 6fa407aefed64ee31745349468b364d073f5a850[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Sun Nov 21 20:00:14 2021 +0200
+
+    Turn off system packages in rtfd config
+
+[33mcommit ed6ca870926963f1a2866d77188d41d3083e0f5a[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Sun Nov 21 19:03:29 2021 +0200
+
+    Add a tox env for building docs
+
+[33mcommit 44144f3023a1330a81c2d5af8f61619e3ed47d44[m
+Author: Dmitri Bogomolov <4glitch@gmail.com>
+Date:   Sat Nov 20 22:39:48 2021 +0200
+
+    Adjust docs dependencies:
+    
+     - leave sphinx and sphinx_rtd_theme in the extra and move the rest
+       to docs/requirements.txt, which is used by RTD
+     - docutils-0.18 caused a build failure
+
+[33mcommit 57ca3b1cf0453b8b1fb328424e9f95e12444145e[m
+Author: Dmitri Bog
